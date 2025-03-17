@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 import { FaBars } from "react-icons/fa"; // 햄버거 아이콘
-
+//안녕
 const HeaderContainer = styled.header`
   display: flex;
   align-items: center;
